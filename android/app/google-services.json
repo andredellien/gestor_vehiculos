@@ -1,0 +1,29 @@
+{
+	"project_info": {
+		"project_number": "1074893109455",
+		"project_id": "gestor-vehiculos",
+		"storage_bucket": "gestor-vehiculos.appspot.com"
+	},
+	"client": [
+		{
+			"client_info": {
+				"mobilesdk_app_id": "1:1074893109455:android:5c8ff9c631d89211615fba",
+				"android_client_info": {
+					"package_name": "com.gestor.app"
+				}
+			},
+			"oauth_client": [],
+			"api_key": [
+				{
+					"current_key": "AIzaSyCFncZhSKfRsf0Lqcjxe5kl9eBSe8hd0dQ"
+				}
+			],
+			"services": {
+				"appinvite_service": {
+					"other_platform_oauth_client": []
+				}
+			}
+		}
+	],
+	"configuration_version": "1"
+}
